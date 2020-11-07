@@ -1,0 +1,12 @@
+{
+  "name": "sentinelhub-js-example",
+  "dependencies": {
+    "@sentinel-hub/sentinelhub-js": "^0.2.35"
+  },
+  "devDependencies": {
+    "parcel": "1.11.0"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
